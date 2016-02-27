@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+img {
+  padding: 5%;
+}
+.center {
+  display: inline-block;
+  padding: 3%;
+  vertical-align: text-top;
+}
+.vertspaced{
+  padding: 0%;
+}
+.horizspaced{
+  display: inline-block;
+}
+/* Button */
+.button {
+  display:inline-block;
+  border-radius: 5px;
+  background: #ED828A;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  line-height: 12px;
+  vertical-align: middle;
+}
+.but-lg {
+  height: 70px;
+  width: 225px;
+  font-size: 24px;
+  padding-top: 30px;
+}
+.but-med {
+  height: 40px;
+  width: 170px;
+  font-size: 16px;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border: none;
+}
+.but-sm{
+  height: 25px;
+  width: 35px;
+  font-size: 14px;
+  padding-top: 7px;
+}
+
+/* Navigation */
+.nav{
+
+}
